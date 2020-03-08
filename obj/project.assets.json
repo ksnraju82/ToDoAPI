@@ -8297,11 +8297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\ToDoService.csproj",
+      "projectUniqueName": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\ToDoAPI\\ToDoService.csproj",
       "projectName": "ToDoService",
-      "projectPath": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\ToDoService.csproj",
+      "projectPath": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\ToDoAPI\\ToDoService.csproj",
       "packagesPath": "C:\\Users\\satya.kanumuri.CHARMHEALTH\\.nuget\\packages\\",
-      "outputPath": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\obj\\",
+      "outputPath": "C:\\Satya\\webAPIs\\ToDo\\ToDoService\\ToDoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
